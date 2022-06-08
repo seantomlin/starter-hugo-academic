@@ -16,7 +16,7 @@ subtitle: https://stat.osu.edu/people/tomlin.63
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  # autolink: true
 
   # Email form provider
   #form:
@@ -28,7 +28,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
- email: tomlin.63@osu.edu
+ # email: tomlin.63@osu.edu
   address:
     street: 420 Cockins Hall, 1958 Neil Avenue
     city: Columbus
