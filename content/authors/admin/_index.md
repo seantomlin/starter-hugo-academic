@@ -37,6 +37,6 @@ highlight_name: true
 title: Sean Tomlin
 email: ""
 ---
-Sean Tomlin is a Biostatistics PhD student in the Division of Biostatistics and Department of Statistics at The Ohio State University. His research interests include causal inference, richly parameterized linear models, spatial confounding as omitted variable bias, and propensity score methods. He is a Susan Huntington Dean's Distinguished Graduate Fellow and recipeint of a College of Public Health Fellowship. Sean is beginning a Graduate Research Associate position in Fall 2022 with Professors Eben Kenah and Greg Rempala where they will be developing appropriate statistical methodlogy for household studies of infectious disease. 
+Sean Tomlin is a Biostatistics PhD student in the Division of Biostatistics and Department of Statistics at The Ohio State University. His research interests include causal inference, richly parameterized linear models, spatial confounding as omitted variable bias, and propensity score methods. He is a Susan Huntington Dean's Distinguished Graduate Fellow and recipient of a College of Public Health Fellowship. Sean is beginning a Graduate Research Associate position in Fall 2022 with Professors Eben Kenah and Greg Rempala where they will be developing appropriate statistical methodology for household studies of infectious disease.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
