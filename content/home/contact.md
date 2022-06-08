@@ -28,7 +28,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
- # email: tomlin dot 63 at osu dot edu
+ email: tomlin.63@osu.edu
   address:
     street: 420 Cockins Hall, 1958 Neil Avenue
     city: Columbus
