@@ -8,7 +8,7 @@ headless: true
 
 # Activate this widget? true/false
 active: false
-
+# For a new post please activate the menu for "Posts" in the config default section
 # Order that this section appears on the page.
 weight: 60
 
