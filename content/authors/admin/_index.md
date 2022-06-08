@@ -1,5 +1,5 @@
 ---
-role: Graduate Fellow and Biostatistics PhD Student at The Ohio State University
+role: Graduate Fellow and Biostatistics PhD Student
 bio: My research interests include causal inference, spatial confounding as
   ommitted variable bias, and richly parameterized linear models.
 interests:
