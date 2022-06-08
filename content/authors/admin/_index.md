@@ -4,8 +4,9 @@ bio: My research interests include causal inference, spatial confounding as
   ommitted variable bias, and richly parameterized linear models.
 interests:
   - Biostatistics
-  - CausalInference
-  - MixedModels
+  - Causal Inference
+  - Mixed Models
+  - Synthetic Controls
 social:
   - icon: envelope
     icon_pack: fas
