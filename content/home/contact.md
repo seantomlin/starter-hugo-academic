@@ -16,7 +16,7 @@ subtitle: https://stat.osu.edu/people/tomlin.63
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: false
+  autolink: true
 
   # Email form provider
   #form:
