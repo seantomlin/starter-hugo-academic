@@ -38,6 +38,6 @@ highlight_name: true
 title: Sean Tomlin
 email: ""
 ---
-I am Biostatistics PhD student in the Division of Biostatistics and Department of Statistics at The Ohio State University. My research interests include topics in causal inference, including synthetic control, matching, and propensity score methods in complex observational data. I am a Susan Huntington Dean's Distinguished Graduate Fellow and recipient of a College of Public Health Fellowship. 
+I am Biostatistics PhD student in the Division of Biostatistics and Department of Statistics at The Ohio State University. My research interests include topics in causal inference, suich as the use of synthetic control estimators, matching, and propensity score methods in complex and multilevel observational data. I am also interested in developing novel approaches to evaluating the health impact of large-scale public policy changes. I am a Susan Huntington Dean's Distinguished Graduate Fellow and recipient of a College of Public Health Fellowship. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
