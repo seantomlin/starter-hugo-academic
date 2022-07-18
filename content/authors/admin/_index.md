@@ -3,14 +3,12 @@ role: Graduate Fellow and Biostatistics PhD Student
 avatar_filename: avatar.jpg
 bio: My research interests include methods in causal inference and complex obersvational data to examine impacts of policy interventions on health outcomes.
 interests:
-  - Biostatistics
   - Causal inference
   - Synthetic controls
   - Matching and weighting methods
   - Missing data and imputation
   - Spatial aggregation and the ecological fallacy
   - Public policy evaluation
-  - Statistical inference in household studies of infectious disease
 social:
   - icon: envelope
     icon_pack: fas
