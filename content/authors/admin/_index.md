@@ -7,6 +7,7 @@ bio: My research interests include methods in causal inference and complex
 interests:
   - Causal inference
   - Synthetic controls
+  - Negative controls
   - Matching and weighting methods
   - Missing data and imputation
   - Health policy evaluation
@@ -39,7 +40,7 @@ highlight_name: true
 title: Sean Tomlin
 email: ""
 ---
-I am third year graduate student in the Interdisciplinary PhD Program in Biostatistics in the Department of Statistics and the Division of Biostatistics at The Ohio State University. My research interests include topics in causal inference, such as the use of matching, weighting, and regression methods in complex and multilevel observational studies. I am also interested in developing novel approaches to evaluating the health impact of large-scale public policy changes. My dissertation advisor is Dr. Bo Lu. 
+I am fourth year graduate student in the Interdisciplinary PhD Program in Biostatistics in the Department of Statistics and the Division of Biostatistics at The Ohio State University. My research interests include topics in causal inference, such as the use of matching, weighting, and regression methods in complex and multilevel observational studies. I am also interested in developing novel approaches to evaluating the health impact of large-scale public policy changes. My dissertation advisor is Dr. Bo Lu. 
 
 I am a recipient of the Susan Huntington Dean's Distinguished Graduate Fellowship and a College of Public Health Fellowship. 
 
