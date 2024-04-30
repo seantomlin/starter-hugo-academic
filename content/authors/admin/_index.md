@@ -6,9 +6,8 @@ bio: My research interests include methods in causal inference and complex
   outcomes.
 interests:
   - Causal inference
-  - Synthetic controls
-  - Negative controls
   - Matching and weighting methods
+  - Quasi-experimental designs
   - Missing data and imputation
   - Health policy evaluation
 social:
