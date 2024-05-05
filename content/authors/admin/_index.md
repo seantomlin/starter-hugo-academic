@@ -1,6 +1,6 @@
 ---
 role: PhD Candidate in Biostatistics
-avatar_filename: avatar.jpg
+avatar_filename: pxl_20240427_023600765~2.jpg
 bio: My research interests include methods in causal inference and complex
   observational data to examine impacts of policy interventions on health
   outcomes.
