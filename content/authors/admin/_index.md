@@ -39,7 +39,7 @@ highlight_name: true
 title: Sean Tomlin
 email: ""
 ---
-I am PhD candidate in the Interdisciplinary PhD Program in Biostatistics in the Department of Statistics and the Division of Biostatistics at The Ohio State University. My research interests include topics in causal inference, such as the use of matching, weighting, and regression methods in complex and multilevel observational studies. I am also interested in developing novel approaches to evaluating the health impact of large-scale public policy changes. My dissertation advisor is Dr. Bo Lu. 
+I am a PhD candidate in the Interdisciplinary PhD Program in Biostatistics in the Department of Statistics and the Division of Biostatistics at The Ohio State University. My research interests include topics in causal inference, such as the use of matching, weighting, and regression methods in complex and multilevel observational studies. I am also interested in developing novel approaches to evaluating the health impact of large-scale public policy changes. My dissertation advisor is Dr. Bo Lu. 
 
 I currently work as a Graduate Research Associate for the College of Public Health. I am a recipient of the Susan Huntington Dean's Distinguished Graduate Fellowship and a College of Public Health Fellowship. 
 
