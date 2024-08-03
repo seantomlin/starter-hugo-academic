@@ -43,4 +43,6 @@ I am a PhD candidate in the Interdisciplinary PhD Program in Biostatistics in th
 
 I currently work as a Graduate Research Associate for the College of Public Health. I am a recipient of the Susan Huntington Dean's Distinguished Graduate Fellowship and a College of Public Health Fellowship. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Sean_Tomlin_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Sean_Tomlin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
+--->
+
