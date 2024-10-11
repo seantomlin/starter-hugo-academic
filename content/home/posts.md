@@ -24,4 +24,3 @@ design:
   view: compact
   columns: "2"
 ---
-I am hoping to share some of my work and thoughts through some blog posts. Stay tuned!
