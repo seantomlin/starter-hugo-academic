@@ -4,7 +4,7 @@ widget_id: recent-posts
 weight: 60
 title: Coming soon...
 subtitle: ""
-active: false
+active: true
 content:
   filters:
     folders:
