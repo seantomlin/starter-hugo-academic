@@ -2,7 +2,7 @@
 widget: pages
 widget_id: recent-posts
 weight: 60
-title: Coming soon...
+title: Posts
 subtitle: ""
 active: true
 content:
