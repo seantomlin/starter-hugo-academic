@@ -4,7 +4,7 @@ avatar_filename: pxl_20240427_023600765~2.jpg
 bio: My methodological research focuses on estimating causal effects in
   quasi-experimental research designs, especially difference-in-differences. My
   application areas of interest include health services and outcomes research,
-  implementation science, and program evaluation in public health..
+  implementation science, and program evaluation in public health.
 interests:
   - Causal inference
   - Matching and weighting methods
