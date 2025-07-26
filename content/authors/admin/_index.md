@@ -1,5 +1,5 @@
 ---
-role: PhD Candidate in Biostatistics
+role: PhD in Biostatistics
 avatar_filename: pxl_20240427_023600765~2.jpg
 bio: My methodological research focuses on estimating causal effects in
   quasi-experimental research designs, especially difference-in-differences. My
@@ -40,7 +40,7 @@ highlight_name: true
 title: Sean Tomlin
 email: ""
 ---
-I am a PhD candidate in the Interdisciplinary PhD Program in Biostatistics in the Department of Statistics and the Division of Biostatistics at The Ohio State University. My research interests include topics in causal inference, such as the use of matching, weighting, and regression methods in complex and multilevel observational studies. I am also interested in developing novel approaches to evaluating the health impact of large-scale public policy changes. My dissertation advisor is Dr. Bo Lu. I am currently a dissertation year fellow courtesy of the Susan Huntington Dean's Distinguished Graduate Fellowship.
+I received my PhD in Biostatistics from the Interdisciplinary PhD Program in Biostatistics in the Department of Statistics and the Division of Biostatistics at The Ohio State University. My research interests include topics in causal inference, such as the use of matching, weighting, and regression methods in complex and multilevel observational studies. I am also interested in developing novel approaches to evaluating the health impact of large-scale public policy changes. 
 
 <!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Sean_Tomlin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
 --->
