@@ -7,10 +7,12 @@ bio: My methodological research focuses on estimating causal effects in
   implementation science, and program evaluation in public health.
 interests:
   - Causal inference
-  - Matching and weighting methods
+  - Constrained optimization
   - Quasi-experimental designs
-  - Missing data and imputation
-  - Health policy evaluation
+  - Difference-in-differences
+  - Survey methods
+  - Health services research
+  - Comparative effectiveness research
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,9 +42,9 @@ highlight_name: true
 title: Sean Tomlin
 email: ""
 ---
-I received my PhD in Biostatistics in August 2025 from the Interdisciplinary PhD Program in Biostatistics in the Department of Statistics and the Division of Biostatistics at The Ohio State University. My research interests include topics in causal inference, such as the use of matching, weighting, and regression methods in complex and multilevel observational studies. I am also interested in developing novel approaches to evaluating the health impact of large-scale public policy changes. I also bring expertise in randomized clinical trials and aim to advance the rigorous application of causal inference in real-world evidence studies, both in regulatory science and clinical research.\
+I received my PhD in Biostatistics in August 2025 from the Interdisciplinary PhD Program in Biostatistics in the Department of Statistics and the Division of Biostatistics at The Ohio State University. My research interests include topics in causal inference, such as the use of matching, weighting, and regression methods in complex and multilevel observational studies, especially in designs with repeated measures. I also bring expertise in randomized clinical trials and aim to advance the rigorous application of causal inference in real-world evidence studies, both in regulatory science and clinical research.\
 \
-My dissertation focused on modern problems in quasi-experimental causal inference, especially in difference-in-differences (DiD) designs used in healthcare utilization studies. This includes addressing the controversial practice of matching on pre-intervention outcomes, and issues of structural zeros in DiD designs. I have also worked on formalizing limitations of retrospective survey data for causal inference, as we have many data constraints (e.g., omission of confounders) that arise from its secondary usage for causal questions. I also extended a sensitivity analysis procedure to relax a joint MAR assumption for more robust evaluation of untestable causal assumptions. Overall, this work not only clarifes some misconceptions in causal analysis with quasi-experiments but also provides powerful tools for practitioners to address common problems in health policy evaluation.
+My dissertation, "Estimating Causal Effects from Observational Data in Quasi-Experimental Designs", focused on modern problems in quasi-experimental causal inference, especially in difference-in-differences (DiD) designs employed in healthcare utilization studies. This includes addressing the controversial practice of matching on pre-intervention outcomes, and issues of structural zeros in DiD designs. I have also worked on formalizing limitations of retrospective survey data for causal inference, as we have many data constraints (e.g., omission of confounders) that arise from its secondary usage for causal questions, and sensitivity analysis that accounts for variation from survey sample design. Overall, this work not only clarifies some misconceptions in causal analysis with quasi-experiments but also provides powerful tools for practitioners to address common problems in health policy evaluation.
 
 <!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/Sean_Tomlin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
 --->
