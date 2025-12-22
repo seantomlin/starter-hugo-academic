@@ -23,8 +23,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/seantomlinstat/
 organizations:
-  - name: The Ohio State University
-    url: https://www.osu.edu/
+  - name: " "
 education:
   courses:
     - course: PhD in Biostatistics
