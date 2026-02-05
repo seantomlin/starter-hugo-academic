@@ -1,43 +1,19 @@
 ---
-# An instance of the Contact widget.
 widget: contact
-
-# This file represents a page section.
-headless: true
-
-# Activate this widget? true/false
-active: true
-
-# Order that this section appears on the page.
+widget_id: Contact
 weight: 130
-
 title: Contact
-subtitle: https://stat.osu.edu/people/tomlin.63
-
+subtitle: ""
+active: true
 content:
-  # Automatically link email and phone or display as text?
-  # autolink: true
-
-  # Email form provider
-  #form:
-  #  provider: netlify
-  #  formspree:
-  #    id:
-  #  netlify:
-  #    # Enable CAPTCHA challenge to reduce spam?
-  #    captcha: false
-
-  # Contact details (edit or remove options as required)
- # email: tomlin.63@osu.edu
   address:
     street: 420 Cockins Hall, 1958 Neil Avenue
     city: Columbus
     region: OH
-    postcode: '43210'
+    postcode: "43210"
     country: United States
     country_code: US
-
-
+headless: true
 design:
-  columns: '2'
+  columns: "2"
 ---
