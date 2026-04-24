@@ -22,3 +22,4 @@ headless: true
 design:
   view: 2
 ---
+I will be presenting my paper "Characterizing Retrospective Constraints of Survey Designs for Estimating Population-level Causal Effects" at the Joint Statistical Meetings 2026 in Boston Massachusetts.
