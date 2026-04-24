@@ -1,5 +1,5 @@
 ---
-title: Student Paper Award
+title: ASA Student Paper Award
 date: 2026-01-30T22:01:00.000Z
 draft: false
 featured: false
