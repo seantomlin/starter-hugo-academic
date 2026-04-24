@@ -1,5 +1,5 @@
 ---
-role: Biostatistician
+role: Biostatistician at Medpace, Inc.
 avatar_filename: pxl_20240427_023600765~2.jpg
 bio: My methodological research focuses on estimating causal effects in
   quasi-experimental research designs, especially difference-in-differences. My
