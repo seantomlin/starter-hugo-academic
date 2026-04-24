@@ -4,13 +4,13 @@ widget_id: Contact
 weight: 130
 title: Contact
 subtitle: ""
-active: true
+active: false
 content:
   address:
-    street: 
+    street: null
     city: Cincinnati
     region: OH
-    postcode: 
+    postcode: null
     country: United States
     country_code: US
 headless: true
