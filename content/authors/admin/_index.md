@@ -1,10 +1,13 @@
 ---
 role: Biostatistician at Medpace, Inc.
 avatar_filename: pxl_20240427_023600765~2.jpg
-bio: My methodological research focuses on estimating causal effects in
-  quasi-experimental research designs, especially difference-in-differences. My
-  application areas of interest include health services and outcomes research,
-  implementation science, and program evaluation in public health.
+bio: My methodological research centers on causal inference from observational
+  data, with applications to health policy evaluation using retrospective and
+  prospective cohort studies. A parallel line of work develops formal
+  identification theory for population-level causal effects in retrospective
+  studies leveraging general-purpose survey data. Alongside this, I bring
+  extensive collaborative experience in clinical research, having served as lead
+  biostatistician on multiple Phase I–II industry-sponsored trials.
 interests:
   - Causal inference
   - Constrained optimization
