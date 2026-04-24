@@ -7,10 +7,10 @@ subtitle: ""
 active: true
 content:
   address:
-    street: 420 Cockins Hall, 1958 Neil Avenue
-    city: Columbus
+    street: 
+    city: Cincinnati
     region: OH
-    postcode: "43210"
+    postcode: 
     country: United States
     country_code: US
 headless: true
