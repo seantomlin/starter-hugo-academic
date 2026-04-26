@@ -22,11 +22,11 @@ headless: true
 design:
   view: 2
 ---
-# Upcoming
+## Upcoming
 
 * Characterizing Retrospective Constraints of Survey Designs for Estimating Population-level Causal Effects. Oral Presentation, GSS/SSS/SRMS Student Paper Competition Award Winner. Boston, MA, 2026
 
-# Recent
+## Recent
 
 * Counterpart Statistics in the Matched Difference-in-Differences Design. Oral presentation: Joint Statistical Meetings, Nashville, TN, 2025
 * Counterpart Statistics in the Matched Difference-in-Differences Design. Poster presentation: American Causal Inference Conference, Detroit, MI, 2025
