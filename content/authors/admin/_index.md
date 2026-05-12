@@ -1,5 +1,5 @@
 ---
-role: Biostatistician at Medpace, Inc.
+role: Biostatistician
 avatar_filename: pxl_20240427_023600765~2.jpg
 bio: My methodological research centers on causal inference from observational
   data, with applications to health policy evaluation using retrospective and
