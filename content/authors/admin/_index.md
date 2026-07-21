@@ -1,6 +1,6 @@
 ---
 role: Biostatistician
-avatar_filename: pxl_20240427_023600765~2.jpg
+avatar_filename: pro_headshot_tomlin.jpg
 bio: My methodological research centers on causal inference from observational
   data, with applications to health policy evaluation using retrospective and
   prospective cohort studies. A parallel line of work develops formal
