@@ -24,7 +24,9 @@ design:
 ---
 ## Upcoming
 
-* Characterizing Retrospective Constraints of Survey Designs for Estimating Population-level Causal Effects. Oral Presentation, GSS/SSS/SRMS Student Paper Competition Award Winner. Joint Statistical Meetings, Boston, MA, 2026
+## Upcoming
+
+* Characterizing Retrospective Constraints of Survey Designs for Estimating Population-level Causal Effects. Oral Presentation, GSS/SSS/SRMS Student Paper Competition Award Winner. Joint Statistical Meetings, Boston, MA, 2026 [[Slides]](/uploads/tomlin-jsm2026-slides.pdf)
 
 ## Recent
 
