@@ -12,7 +12,7 @@
 #  font_size: m
 
 appearance:
-  theme_day: forest
+  theme_day: ocean
   theme_night: dark
   font: classic
   font_size: m
