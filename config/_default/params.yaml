@@ -5,10 +5,16 @@
 
 # Appearance
 
+# appearance:
+#  theme_day: minimal
+#  theme_night: minimal
+#  font: minimal
+#  font_size: m
+
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: contrast
+  theme_night: contrast
+  font: academic
   font_size: m
 
 # SEO
