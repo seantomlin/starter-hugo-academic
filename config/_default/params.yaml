@@ -12,9 +12,9 @@
 #  font_size: m
 
 appearance:
-  theme_day: contrast
-  theme_night: contrast
-  font: academic
+  theme_day: ocean
+  theme_night: minimal
+  font: minimal
   font_size: m
 
 # SEO
