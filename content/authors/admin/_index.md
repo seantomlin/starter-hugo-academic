@@ -26,8 +26,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/seantomlinstat/
-organizations:
-  - name: " "
 education:
   courses:
     - course: PhD in Biostatistics
