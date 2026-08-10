@@ -11,6 +11,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       link: https://www.linkedin.com/in/seantomlinstat/
+      name: LinkedIn
   address:
     street: null
     city: Cincinnati
